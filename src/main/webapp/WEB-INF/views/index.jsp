@@ -7,7 +7,7 @@
 <title>TOP画面</title>
 </head>
 <body>
-<p><a href="login">通常ログイン</a></p>
+<p><a href="login">通常ログイィン</a></p>
 <p><a href="loginAll">一括ログイン</a></p>
 </body>
 </html>
